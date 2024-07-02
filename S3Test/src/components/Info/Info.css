@@ -1,0 +1,24 @@
+#DivInfo{
+    width: 50%;
+    height: 100%;
+    padding: 100px;
+    box-sizing: border-box;
+    color: white;
+}
+#info{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+}
+#HeaderDiv{
+    width: 300px;
+    font-size: 40px;
+}
+
+#FrontId{
+    font-weight: bolder;
+    margin: 0;
+    font-size: 40px;
+}

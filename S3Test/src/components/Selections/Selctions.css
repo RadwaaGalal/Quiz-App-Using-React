@@ -1,0 +1,28 @@
+#SelectionDiv{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+    gap: 20px;
+}
+.Seclet{
+    width: 80%;
+    height: 60px;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    color: white;
+    background-color: #3C4D67;
+    text-align: start;
+    display: flex;
+    align-items: center;
+    column-gap: 15px;
+    font-weight: bold;
+    /* background-color: rgb(227, 216, 226); */
+}
+
+.SelectionColor{
+    border-radius: 5px;
+}
+
